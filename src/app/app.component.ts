@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 
 
 export class AppComponent {
-  user='Kalpesh Dashpute';
+  user='Kalpesh Ravindra Dashpute';
   title = 'Angular world';
   
   constructor(){
