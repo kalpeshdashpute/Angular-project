@@ -13,6 +13,7 @@ export class AppComponent {
   
   constructor(){
     console.log(this.user);
+    console.log(this.title);
     
   
 }
