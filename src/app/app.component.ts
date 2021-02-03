@@ -8,8 +8,8 @@ import { Component } from '@angular/core';
 
 
 export class AppComponent {
-  user='Kalpesh Ravindra Dashpute';
-  title = 'Angular world';
+  user='Kalpesh  Dashpute';
+  title = 'Angular Life';
   
   constructor(){
     console.log(this.user);
